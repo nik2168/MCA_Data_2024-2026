@@ -1,0 +1,11 @@
+INTER THREAD COMMUNICATION :
+Inter thread communication is defined as when multiple threads in an envirnment communicated with each other
+
+Without proper communication mechanisms, threads might end up in inefficient busy-waiting states, leading to
+wastage in cpu resources and potential deadlocks.
+
+
+These methods are used in Inter Thread communication
+Wait:
+Notify:
+Notify All:

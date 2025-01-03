@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClasses",
+            "request": "launch",
+            "mainClass": "AbstractClasses",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "AddNumber",
+            "request": "launch",
+            "mainClass": "AddNumber",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "CharArr",
+            "request": "launch",
+            "mainClass": "CharArr",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "CheckEvenOdd",
+            "request": "launch",
+            "mainClass": "CheckEvenOdd",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "CheckLeapYear",
+            "request": "launch",
+            "mainClass": "CheckLeapYear",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "CheckVowelConsonantCheck",
+            "request": "launch",
+            "mainClass": "CheckVowelConsonantCheck",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "CompileTimePolymorphism",
+            "request": "launch",
+            "mainClass": "CompileTimePolymorphism",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "DrawShapes",
+            "request": "launch",
+            "mainClass": "DrawShapes",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "FactorialOfANumber",
+            "request": "launch",
+            "mainClass": "FactorialOfANumber",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "FileClassToReadAnyFile",
+            "request": "launch",
+            "mainClass": "FileClassToReadAnyFile",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "GrossSalary",
+            "request": "launch",
+            "mainClass": "GrossSalary",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "Interfaces",
+            "request": "launch",
+            "mainClass": "Interfaces",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "JavaThreads",
+            "request": "launch",
+            "mainClass": "JavaThreads",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "LambdaExpressionAndAnnonymousClasses",
+            "request": "launch",
+            "mainClass": "LambdaExpressionAndAnnonymousClasses",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "Locks",
+            "request": "launch",
+            "mainClass": "Locks.Locks",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "ReentrantWhy",
+            "request": "launch",
+            "mainClass": "Locks.Reentrant.ReentrantWhy",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "MainStuff",
+            "request": "launch",
+            "mainClass": "MainStuff",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "PolymorphismClass",
+            "request": "launch",
+            "mainClass": "PolymorphismClass",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "RuntimePolymorphism",
+            "request": "launch",
+            "mainClass": "RuntimePolymorphism",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "SignedUnsignedInt",
+            "request": "launch",
+            "mainClass": "SignedUnsignedInt",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "SignedUnsignedRIghtShift",
+            "request": "launch",
+            "mainClass": "SignedUnsignedRIghtShift",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "StatesInThread",
+            "request": "launch",
+            "mainClass": "StatesInThread",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "StringOperations",
+            "request": "launch",
+            "mainClass": "StringOperations",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "StringStringBuffer",
+            "request": "launch",
+            "mainClass": "StringStringBuffer",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "SyncronisationExample",
+            "request": "launch",
+            "mainClass": "Syncronisation.SyncronisationExample",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "Temp",
+            "request": "launch",
+            "mainClass": "Temp",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "ThreadMethods",
+            "request": "launch",
+            "mainClass": "ThreadMethods",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "ThrowThrows",
+            "request": "launch",
+            "mainClass": "ThrowThrows",
+            "projectName": "Java_6dec00eb"
+        },
+        {
+            "type": "java",
+            "name": "TryCatchClass",
+            "request": "launch",
+            "mainClass": "TryCatchClass",
+            "projectName": "Java_6dec00eb"
+        }
+    ]
+}
